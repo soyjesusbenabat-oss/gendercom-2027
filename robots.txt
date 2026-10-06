@@ -1,0 +1,3 @@
+# Copia de trabajo. La web buena es https://gendercom.org/gendercom2027/
+User-agent: *
+Disallow: /
